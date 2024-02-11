@@ -2,7 +2,7 @@
 
 This project PDFP (Portable Document File Passer) aims to provide a CLI tool to pass PDF files, either from local disk or a web address, and output the text to stdout.
 
-ADD GIF HERE.
+![example](https://github.com/joshbainbridge/pdfp/assets/8218521/bd3f4903-90d2-4d6c-a7ec-4f984e593a9d)
 
 It can be combined with AI / LLM tools like [AiBro](https://github.com/joshbainbridge/aibro) or [Mods](https://github.com/charmbracelet/mods) to evaluate and understand PDF documents. Just pipe the result on the command line from one tool to the other.
 
